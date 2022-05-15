@@ -1,0 +1,22 @@
+here are the code for making a better ips 1.0 (or trashin him i dunno):
+print("Welcome to the Ips 1.0!")
+//the password is 1233, but it's not.
+password=input("Enter your password: ")
+//put Google Chromium in the box "execute=input"
+print("What you want to execute?")
+execute=input("")
+//put How to make a good apple pie? in "search=input"
+print("Welcome to the Google Chromium! What do you want to search?")
+search=input("")
+print("If you want to make a good apple pie, you need good hands and the recipe of a apple pie, then you make a good apple pie.")
+//in "idle=input", press enter or put ok.
+idle=input("")
+//in "search=input" put exit.
+print("What you want to search?")
+search=input("")
+//in "execute=input" put "Shut Down".
+print("What you want to Execute?")
+execute=input("")
+//in "enter=input", press enter.
+print("Shuting Down... Please Press Enter")
+enter=input("")

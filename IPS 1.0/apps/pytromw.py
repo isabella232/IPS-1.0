@@ -1,0 +1,5 @@
+print("Pytromw,2021 all rights to S0NICOVM (lol not me all just python)")
+input=input("")
+print("Hello World!")
+input=input("")
+print("")

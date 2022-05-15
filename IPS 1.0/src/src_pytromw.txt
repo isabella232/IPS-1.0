@@ -1,0 +1,7 @@
+//here is the code for pythrow.py (maybe i spell that wrong), and the "print("Pytromw, 2021 all rights to S0NICOVM (lol not me all just python)", put what you want to apper 
+print("Pytromw,2021 all rights to S0NICOVM (lol not me all just python)")
+//input=input, put Hello World!, same at print("Hello World!")
+input=input("")
+print("Hello World!")
+//in this input=input, put exit, i'll modify the code in here to you understand, but if you want the original, go to apps folder.
+input=input("")

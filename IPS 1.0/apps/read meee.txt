@@ -1,0 +1,1 @@
+all of theses is all pythom too, so use pythom, but use some things like: in the pytromw.py use print("Hello World!") And After. type Exit, and you need to see the source code (yeah the IPS 1.0 is source code) to see what code you need to use, or just wreck the system i don't know how to program in pytown (no idk how to type pytwom)

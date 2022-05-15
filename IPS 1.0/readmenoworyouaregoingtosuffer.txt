@@ -1,0 +1,53 @@
+Hey! you read me! thx! The IPS 1.0 is a (broken) system = windows that emulates a system in pythom (pls someone say how to type pythomw) when i say: PYTHOMW,you need to have python 3.8.1 (yeah my pc is trash) and the system is FREE and OPEN SOURSE! If you paid for it, you got SCAMMED! (and i literally don't ctrl+c ctrl+v in the read me of the fnf game)
+Anyway, thx for downloading dis, i think u download this just to hjak, but thx in anyway, ANDDDDD (rick astly reference) if you wanna mor things like this or another things too, fllow me in itch.io: s0nicovm.itch.io SAYY GOODBYEEE and read all read me cus u don know what dis program does
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Little info, you have FULL PERMISSION to meme,make meme,make meme and do WHATEVER you want with the system.
+Use the (music is in sounds folder, i think that is music) in videos you do, use art (well im gonna make art, you can see the art in arts folder), ANYTHING. GO CRAZY BRO. and the passowrd for the ips is: 1233

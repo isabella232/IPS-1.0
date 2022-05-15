@@ -1,0 +1,15 @@
+print ("Among Python")
+ok=input ("")
+
+print ("  Red: I was doing tasks (obiusaly a impasta)")
+ok=input ("")
+print (" Blue: I was doing wires (not impostor)")
+lol=input ("")
+print (" Green: I was in admin, then in admin i see someone killing. (bruh)")
+bruh=input ("")
+print ("Who will you vote?")
+red=input ("")
+print ("red was an impostor (if you voted someone, and not red, then all of us voted red)")
+ok=input ("")
+
+print ("You Win! If you wanna replay, close and enter again")
